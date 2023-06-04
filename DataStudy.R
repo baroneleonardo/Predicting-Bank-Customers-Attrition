@@ -4,7 +4,7 @@ setwd("C:\\Users\\Leonardo\\Documents\\POLIMI\\Applied-Statistics-Project")
 
 # Read Data
 
-data <- read.csv('dataset.csv', header=TRUE)
+data <- read.csv('datass/dataset.csv', header=TRUE)
 
 head(data)                                                           
 dim(data)
